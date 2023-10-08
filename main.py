@@ -5,3 +5,5 @@ def main():
     print('dsadas')
 
 main()
+
+print('dsadas')
